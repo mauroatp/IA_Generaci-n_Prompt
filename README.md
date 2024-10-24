@@ -10,7 +10,7 @@ El sistema permite al usuario ingresar una fecha específica, y la IA proporcion
 - **Búsqueda de efemérides**: Genera una descripción de un hecho histórico basado en la fecha proporcionada.
 - **Generación de imágenes**: Crea una imagen representativa del evento histórico utilizando la API de DALL-E.
 
-###Conclusiones
+### Conclusiones
 
 El proyecto de generación de efemérides utilizando la API de OpenAI GPT-3.5 y DALL-E ha logrado:
 
